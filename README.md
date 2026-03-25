@@ -11,3 +11,13 @@ https://mikashopifypro.github.io/padel-website/
 
 GitHub repository:
 https://github.com/Mikashopifypro/padel-website
+
+
+### Voorbeeld Portfolio Website
+Mijn Tweede project op basis van opdrachten gemaakt. 
+
+Live website:
+https://mikadevelopnl.github.io/Voorbeeld-Portfolio-Website/
+
+GitHub repository:
+https://github.com/MikaDevelopNL/Voorbeeld-Portfolio-Website
